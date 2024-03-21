@@ -16,6 +16,7 @@
 		5B2327622B9EF119003631AC /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B2327612B9EF119003631AC /* RecipeDetailView.swift */; };
 		5B2327642B9EFBF3003631AC /* AppColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B2327632B9EFBF3003631AC /* AppColor.swift */; };
 		5B2327802B9F100F003631AC /* RecipeCategoryGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B23277F2B9F100F003631AC /* RecipeCategoryGridView.swift */; };
+		5B60905B2BAC1C1500196FD4 /* ModifyMainInformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B60905A2BAC1C1500196FD4 /* ModifyMainInformationView.swift */; };
 		5BF395D12BA1230A0009995C /* ModifyRecipeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF395D02BA1230A0009995C /* ModifyRecipeView.swift */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,7 @@
 		5B2327612B9EF119003631AC /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
 		5B2327632B9EFBF3003631AC /* AppColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppColor.swift; sourceTree = "<group>"; };
 		5B23277F2B9F100F003631AC /* RecipeCategoryGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCategoryGridView.swift; sourceTree = "<group>"; };
+		5B60905A2BAC1C1500196FD4 /* ModifyMainInformationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifyMainInformationView.swift; sourceTree = "<group>"; };
 		5BF395D02BA1230A0009995C /* ModifyRecipeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifyRecipeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -121,6 +123,7 @@
 			isa = PBXGroup;
 			children = (
 				5BF395D02BA1230A0009995C /* ModifyRecipeView.swift */,
+				5B60905A2BAC1C1500196FD4 /* ModifyMainInformationView.swift */,
 			);
 			path = ModifyRecipes;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				5BF395D12BA1230A0009995C /* ModifyRecipeView.swift in Sources */,
 				5B2327352B9C2139003631AC /* RecipesListView.swift in Sources */,
 				5B2327332B9C2139003631AC /* CookcademyApp.swift in Sources */,
+				5B60905B2BAC1C1500196FD4 /* ModifyMainInformationView.swift in Sources */,
 				5B2327642B9EFBF3003631AC /* AppColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
